@@ -1,8 +1,5 @@
 📌 Walmart Advanced Software Engineering Simulation – Case Study
 
-Platform: Forage (Walmart USA Virtual Experience Program)
-Date: May 2025
-Status: Completed
 🧠 Overview
 
 As part of Walmart’s Advanced Software Engineering virtual job simulation hosted on Forage, I took on the role of a full-stack engineer working across multiple departments — shipping, data infrastructure, and retail operations. This simulation challenged me to solve complex, multi-layered problems using real-world skills in data structures, architecture, database design, and data engineering.
